@@ -1,6 +1,5 @@
 
 public class practice1 {
-	enum Week { 월, 화, 수, 목, 금, 토, 일 }
 
 	public static void main(String[] args) {
 		double score[][] = {{3.3, 3.4},
